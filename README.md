@@ -27,6 +27,12 @@ Feel free to reach out and connect with me through my [Linkedin profile](https:/
 
 *Description*: Predicting atherosclerosis risk using machine learning on medical data.
 
+## Kaggle Projects 🏅
+
+- [Disaster Tweets Classification](https://github.com/OmriGruman/disaster-tweets-classification)
+
+*Description*: Kaggle projects exploring data science and machine learning techniques.
+
 ## Computer Vision Projects 👀
 
 - [YoloV3 Object Detection](https://github.com/OmriGruman/yolo-v3-object-detection)

@@ -29,7 +29,8 @@ Feel free to reach out and connect with me through my [Linkedin profile](https:/
 
 ## Kaggle Projects 🏅
 
-- [Disaster Tweets Classification](https://github.com/OmriGruman/disaster-tweets-classification)
+- [Disaster Tweets Analysis](https://github.com/OmriGruman/disaster-tweets-classification)
+- [Titanic Survival Prediction](https://github.com/OmriGruman/titanic-survival-prediction)
 
 *Description*: Kaggle projects exploring data science and machine learning techniques.
 

@@ -1,7 +1,7 @@
 # Introduction
 
 Hi, I’m @OmriGruman 👋  
-I’m interested in Machine Learning 💻 & Deep Learning 🧠
+I like programming 💻, machine learning 🤖, and deep learning 🧠
 
 Feel free to reach out and connect with me through my [Linkedin profile](https://www.linkedin.com/in/omri-gruman-383b4821a/), and check out my projects 👇
 
